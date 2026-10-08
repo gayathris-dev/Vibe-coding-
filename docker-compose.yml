@@ -1,0 +1,71 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: bnp_selfhealing_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: selfhealing_db
+      POSTGRES_USER: bnp_admin
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-SecureP@ssw0rd2026!}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - bnp_internal_net
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 2048M
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: bnp_selfhealing_api
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql://bnp_admin:${POSTGRES_PASSWORD:-SecureP@ssw0rd2026!}@postgres:5432/selfhealing_db
+      SECRET_KEY: ${SECRET_KEY:-bnp-paribas-self-healing-controller-super-secure-key-2026}
+      SELFHEAL_DIR: /opt/selfheal
+      HASH_SALT: BNP_PROVENANCE_V2
+    volumes:
+      - ./backend/scripts/selfheal:/opt/selfheal:ro
+    depends_on:
+      - postgres
+    networks:
+      - bnp_internal_net
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 2048M
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.frontend
+    container_name: bnp_selfhealing_ui
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - backend
+    networks:
+      - bnp_internal_net
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1024M
+
+volumes:
+  pgdata:
+    driver: local
+
+networks:
+  bnp_internal_net:
+    driver: bridge
+    internal: false

@@ -1,0 +1,80 @@
+name: BNP Paribas Self-Healing Controller CI/CD
+
+on:
+  push:
+    branches: [ main, master, anbu ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test-and-validate:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:15-alpine
+        env:
+          POSTGRES_DB: selfhealing_db
+          POSTGRES_USER: bnp_admin
+          POSTGRES_PASSWORD: SecureP@ssw0rd2026!
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U bnp_admin -d selfhealing_db"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    steps:
+      # Checkout repository
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # Setup Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Install backend dependencies
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r backend/requirements.txt
+
+      # Verify PostgreSQL driver installation
+      - name: Verify psycopg
+        run: |
+          python -m pip show psycopg
+          python -c "import psycopg; print('psycopg version:', psycopg.__version__)"
+
+      # Run backend tests
+      - name: Run Backend Tests
+        env:
+          DATABASE_URL: "postgresql://bnp_admin:SecureP%40ssw0rd2026%21@localhost:5432/selfhealing_db"
+          PYTHONPATH: .
+        run: |
+          pytest backend/tests -v
+
+      # Setup Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Build frontend
+      - name: Build Frontend Application
+        working-directory: ./frontend
+        run: |
+          npm ci
+          npm run build
+
+      # Build backend Docker image
+      - name: Build Backend Docker Image
+        run: |
+          docker build -f Dockerfile.backend -t bnp/self-healing-api:latest .
+
+      # Build frontend Docker image
+      - name: Build Frontend Docker Image
+        run: |
+          docker build -f frontend/Dockerfile -t bnp/self-healing-ui:latest ./frontend

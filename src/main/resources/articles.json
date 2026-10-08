@@ -1,0 +1,938 @@
+[
+  {
+    "id": 1,
+    "title": "Corporate Banking – Little employee at use film medical",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-521"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-521. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 2,
+    "title": "Corporate Banking – Election activity old",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-144"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-144. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 3,
+    "title": "Corporate Banking – Newspaper act sense rise toward ground",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-201"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-201. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 4,
+    "title": "Corporate Banking – House thing painting",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-316"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-316. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 5,
+    "title": "Corporate Banking – Else traditional carry pick scientist",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-885"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-885. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 6,
+    "title": "Corporate Banking – Society back member drive industry",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-484"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-484. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 7,
+    "title": "Corporate Banking – Interview pay former brother pick eat",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-150"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-150. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 8,
+    "title": "Corporate Banking – Degree place take when",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-200"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-200. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 9,
+    "title": "Corporate Banking – Very we tax draw",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-221"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-221. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 10,
+    "title": "Corporate Banking – East onto measure off reach day",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-510"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-510. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 11,
+    "title": "Corporate Banking – Nor time a trade",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-167"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-167. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 12,
+    "title": "Corporate Banking – Natural operation never child true stay",
+    "department": "Corporate Banking",
+    "tags": [
+      "corporate-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-491"
+    ],
+    "body": "Verify the user’s identity in the Corporate portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-491. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 13,
+    "title": "Data Center – Ask fly play",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-224"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-224. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 14,
+    "title": "Data Center – Reduce daughter media letter particular break",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-239"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-239. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 15,
+    "title": "Data Center – Star few president",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-903"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-903. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 16,
+    "title": "Data Center – Once chance nature data probably new",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-313"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-313. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 17,
+    "title": "Data Center – Finish responsibility many",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-349"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-349. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 18,
+    "title": "Data Center – Positive full option popular end stuff role",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-476"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-476. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 19,
+    "title": "Data Center – First whose law traditional",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-188"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-188. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 20,
+    "title": "Data Center – Fill work police note",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-133"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-133. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 21,
+    "title": "Data Center – Right decision among",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-700"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-700. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 22,
+    "title": "Data Center – Foreign never peace fight",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-720"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-720. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 23,
+    "title": "Data Center – Itself plant project view player",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-218"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-218. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 24,
+    "title": "Data Center – Late standard glass tree study",
+    "department": "Data Center",
+    "tags": [
+      "data-center",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-665"
+    ],
+    "body": "Verify the user’s identity in the Data portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-665. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 25,
+    "title": "Insurance – Well serious different energy especially policy",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-622"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-622. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 26,
+    "title": "Insurance – War individual walk theory sister",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-293"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-293. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 27,
+    "title": "Insurance – Group senior scientist",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-298"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-298. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 28,
+    "title": "Insurance – News item simple no project",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-168"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-168. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 29,
+    "title": "Insurance – Letter chance this picture stock stay",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-888"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-888. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 30,
+    "title": "Insurance – Agree successful nation least film general",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-333"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-333. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 31,
+    "title": "Insurance – Upon building rather",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-667"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-667. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 32,
+    "title": "Insurance – Man have before boy response",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-825"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-825. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 33,
+    "title": "Insurance – Specific tree usually",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-127"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-127. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 34,
+    "title": "Insurance – Phone big energy success pass table",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-128"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-128. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 35,
+    "title": "Insurance – Top learn total yet",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-897"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-897. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 36,
+    "title": "Insurance – Choose technology free school many consumer",
+    "department": "Insurance",
+    "tags": [
+      "insurance",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-727"
+    ],
+    "body": "Verify the user’s identity in the Insurance portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-727. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 37,
+    "title": "Investment Banking – Stage network heart physical design",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-131"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-131. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 38,
+    "title": "Investment Banking – Explain somebody address will",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-659"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-659. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 39,
+    "title": "Investment Banking – Former great care carry partner doctor",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-507"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-507. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 40,
+    "title": "Investment Banking – Cut partner write increase",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-462"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-462. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 41,
+    "title": "Investment Banking – Challenge rate statement draw",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-632"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-632. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 42,
+    "title": "Investment Banking – By major result senior",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-904"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-904. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 43,
+    "title": "Investment Banking – Field itself color room",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-754"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-754. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 44,
+    "title": "Investment Banking – Real cause child",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-302"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-302. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 45,
+    "title": "Investment Banking – Process those like",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-571"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-571. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 46,
+    "title": "Investment Banking – Middle stage focus",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-709"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-709. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 47,
+    "title": "Investment Banking – Factor accept thus career daughter this",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-213"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-213. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 48,
+    "title": "Investment Banking – Power animal property whose",
+    "department": "Investment Banking",
+    "tags": [
+      "investment-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-900"
+    ],
+    "body": "Verify the user’s identity in the Investment portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-900. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 49,
+    "title": "Laptop Assets – Prepare four nearly crime science but left",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-883"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-883. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 50,
+    "title": "Laptop Assets – Structure someone east current",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-640"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-640. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 51,
+    "title": "Laptop Assets – Court third population join",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-691"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-691. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 52,
+    "title": "Laptop Assets – Onto anything minute test",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-384"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-384. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 53,
+    "title": "Laptop Assets – Drug key no discussion",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-431"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-431. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 54,
+    "title": "Laptop Assets – Item Congress machine executive series could",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-932"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-932. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 55,
+    "title": "Laptop Assets – Or little call financial civil he",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-942"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-942. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 56,
+    "title": "Laptop Assets – Mother million thought",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-571"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-571. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 57,
+    "title": "Laptop Assets – Pm central between",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-280"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-280. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 58,
+    "title": "Laptop Assets – Will always establish either",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-557"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-557. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 59,
+    "title": "Laptop Assets – Century TV five",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-553"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-553. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 60,
+    "title": "Laptop Assets – Question month before",
+    "department": "Laptop Assets",
+    "tags": [
+      "laptop-assets",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-847"
+    ],
+    "body": "Verify the user’s identity in the Laptop portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-847. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 61,
+    "title": "Retail Banking – Bar study water more he heart",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-671"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-671. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 62,
+    "title": "Retail Banking – Business paper break carry",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-277"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-277. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 63,
+    "title": "Retail Banking – Serious talk style",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-484"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-484. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 64,
+    "title": "Retail Banking – Assume husband analysis should",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-184"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-184. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 65,
+    "title": "Retail Banking – Dinner most fine take yourself",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-683"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-683. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 66,
+    "title": "Retail Banking – Human authority security it thus",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-480"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-480. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 67,
+    "title": "Retail Banking – Tv great treatment other national",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-589"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-589. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 68,
+    "title": "Retail Banking – State food land sometimes",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-100"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-100. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 69,
+    "title": "Retail Banking – Guess newspaper project every",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-337"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-337. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 70,
+    "title": "Retail Banking – Beautiful only share kind vote",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-641"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-641. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 71,
+    "title": "Retail Banking – Between any agreement member single",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-761"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-761. Document the action in the ticketing system and close the request."
+  },
+  {
+    "id": 72,
+    "title": "Retail Banking – Show ago direction skill",
+    "department": "Retail Banking",
+    "tags": [
+      "retail-banking",
+      "identity",
+      "entitlement",
+      "configuration",
+      "SOP-957"
+    ],
+    "body": "Verify the user’s identity in the Retail portal. Check the requestor’s entitlement for the requested service. Apply the configuration change as described in SOP-957. Document the action in the ticketing system and close the request."
+  }
+]

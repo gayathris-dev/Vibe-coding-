@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: baseline-matcher
+
+server:
+  port: 8081

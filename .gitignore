@@ -1,0 +1,11 @@
+HELP.md
+target/
+node_modules/
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.zip
+.vscode/
